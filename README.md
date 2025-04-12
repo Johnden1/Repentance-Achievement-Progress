@@ -10,7 +10,7 @@ Tracks unlocks and picked up items
 
 ### Compatibility
 
-* Any modifications needed to be made to files/folders
+* Supports Windows 10/11
 
 ### How to run
 
