@@ -16,7 +16,7 @@ Tracks unlocks and picked up items
 
 * Unzip into a folder and run the .exe file
 * Make sure your save files are properly located in Program Files or Program Files (x86)
-The default directory is ".\Steam\userdata\*\250900\remote", where * is your SteamID3.
+The default directory is ".\Steam\userdata\\*\250900\remote", where * is your SteamID3.
 
 ## Version History
 
