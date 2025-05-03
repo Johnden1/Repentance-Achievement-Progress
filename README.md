@@ -18,7 +18,7 @@ It also tracks interesting statistics like: Tinted Rocks Destroyed and Participa
 * Supports Windows 10/11
 * Works only for Repentance+ Beta
 
-### Download & How to run
+### [Download](https://github.com/Johnden1/Repentance-Achievement-Progress/releases/download/Repentance-Tracker-v1.0/Repentance+.Tracker.zip) & How to run
 
 * Unzip into a folder and run the .exe file
 * Make sure your save files are properly located in Program Files or Program Files (x86)
