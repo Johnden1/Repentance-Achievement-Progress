@@ -1,4 +1,4 @@
-# Repentance+ Tracker → Download Here![https://github.com/Johnden1/Repentance-Achievement-Progress/releases/download/Repentance-Tracker-v1.0/Repentance+.Tracker.zip]
+# Repentance+ Tracker → [Download Here!](https://github.com/Johnden1/Repentance-Achievement-Progress/releases/download/Repentance-Tracker-v1.0/Repentance+.Tracker.zip)
 
 A "simple" achievement, item and stats tracker for Binding of Isaac Rebirth - Repentance+ DLC
 
